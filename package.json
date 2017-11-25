@@ -1,0 +1,22 @@
+{
+  "name": "overbond-coding-exercise",
+  "version": "1.0.0",
+  "description": "My (Ben Stibrany) answer to the overbond coding question.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bstibrany/overbond-coding-exercise.git"
+  },
+  "author": "Ben Stibrany",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bstibrany/overbond-coding-exercise/issues"
+  },
+  "homepage": "https://github.com/bstibrany/overbond-coding-exercise#readme",
+  "dependencies": {
+    "mocha": "^4.0.1"
+  }
+}
